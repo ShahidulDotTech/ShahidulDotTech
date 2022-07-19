@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Shahidul Islam Pranto
+- 👀 I’m interested in Web Scraping
+- 🌱 I’m currently learning Networking
+- 💞️ I’m looking to collaborate on Data Pipeline
+- 📫 How to reach me @ShahidulDotTech on [Twitter](https://twitter.com/ShahidulDotTech) and on [Linkedin](https://www.linkedin.com/in/shahidul-islam-pranto/)
+
 <!--
 **ShahidulDotTech/ShahidulDotTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
